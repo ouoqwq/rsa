@@ -1,0 +1,3 @@
+[submodule "BigInt"]
+    path = BigInt
+    url = https://github.com/demerzel-iv/BigInt

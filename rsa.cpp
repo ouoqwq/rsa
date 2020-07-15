@@ -34,7 +34,7 @@ Bint prime_create(int a)
     {
         if (dir) ans -= 2;
         else ans += 2;
-        cout << 1 << endl;
+        //cout << 1 << endl;
     }
     return ans;
 }
